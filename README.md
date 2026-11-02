@@ -44,6 +44,7 @@ LinkComment AI is designed to keep users in control of their LinkedIn engagement
 
 The goal of LinkComment AI is to make professional networking easier by helping users participate in meaningful conversations on LinkedIn.
 
+<img width="315" height="430" alt="image" src="https://github.com/user-attachments/assets/f5c50f4e-2fc7-49e9-b300-35a8e94ddb60" />
 
 
 ## 📄 License
